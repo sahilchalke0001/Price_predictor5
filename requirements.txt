@@ -1,3 +1,5 @@
 streamlit
 numpy
 sklearn
+pandas
+pickle
